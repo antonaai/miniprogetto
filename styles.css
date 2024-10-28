@@ -28,7 +28,7 @@ body, html {
   border-radius: 10px;
   animation: slideUp 1s ease-out;
   transition: all ease-in-out 0.3s;
-  color: #fff;
+  color: goldenrod;
 }
 .hero-section .hero-title:hover {
   transform: translateY(-20%);
